@@ -1,0 +1,1 @@
+# product-details-with-qr-code
